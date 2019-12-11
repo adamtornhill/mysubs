@@ -1,0 +1,3 @@
+[submodule "deltarepo"]
+	path = deltarepo
+	url = git@github.com:adamtornhill/deltarepo.git
